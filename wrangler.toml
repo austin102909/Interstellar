@@ -1,4 +1,4 @@
-# wrangler.toml
+name = "interstellar-nolan"# wrangler.toml
 
 name = "interstellar-proxy"  # Name of your worker
 type = "javascript"  # Type of worker
